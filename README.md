@@ -12,6 +12,6 @@ v1.0 Peter Justel
 **Data_Export.m**
 v1.0 Akash Mankar
 
-![IRS](http://www.irs.uni-stuttgart.de/downloads/Logos/logos_irs/irs_engl/jpg/IRS-Signet_V2_engl.jpg| width=100)
-![University of Stuttgart](https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg | width=100)
-![UPC](https://www.upc.edu/comunicacio/ca/identitat/descarrega-arxius-grafics/fitxers-marca-principal/upc-positiu-p3005.png | width=100)
+![IRS](http://www.irs.uni-stuttgart.de/downloads/Logos/logos_irs/irs_engl/jpg/IRS-Signet_V2_engl.jpg){:height="60px" width="100px"}
+![University of Stuttgart](https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg){:height="60px" width="100px"}
+![UPC](https://www.upc.edu/comunicacio/ca/identitat/descarrega-arxius-grafics/fitxers-marca-principal/upc-positiu-p3005.png){:height="60px" width="100px"}
