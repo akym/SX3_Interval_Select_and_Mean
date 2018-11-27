@@ -1,5 +1,6 @@
 # SX3 Interval Select and Mean
 MATLAB Script for Interval selection of data and Mean extraction Tool for SX3 at IRS, University of Stuttgart
+[![DOI](https://zenodo.org/badge/159256698.svg)](https://zenodo.org/badge/latestdoi/159256698)
 
 ## Usage Instruction
 Copy all the files into a folder and also copy the rawdata .dat file into the same folder. Open the Interval_Selection.m and run the script, follow the prompts and you can select the intervals. After various intervals are selected, save the intervals, this will generate a MATLAB Struct file containing all the interval data. Then open the Data_Export.m and run the script and browse for the same rawdata file and the data will be extracted out and saved in an Excel file as well as MATLAB Struct.
