@@ -13,4 +13,4 @@ v1.0 Peter Justel
 v1.0 Akash Mankar
 
 ###
-<img src="http://www.irs.uni-stuttgart.de/downloads/Logos/logos_irs/irs_engl/jpg/IRS-Signet_V2_engl.jpg" align="left" height="100" width="250" ><img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg" align="center" height="100" width="250" ><img src="https://www.upc.edu/comunicacio/ca/identitat/descarrega-arxius-grafics/fitxers-marca-principal/upc-positiu-p3005.png" align="right" height="100" width="250" >
+<img src="http://www.irs.uni-stuttgart.de/downloads/Logos/logos_irs/irs_engl/jpg/IRS-Signet_V2_engl.jpg" align="left" height="80" width="250" ><img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_englisch.jpg" align="center" height="80" width="250" ><img src="https://www.upc.edu/comunicacio/ca/identitat/descarrega-arxius-grafics/fitxers-marca-principal/upc-positiu-p3005.png" align="right" height="80" width="250" >
