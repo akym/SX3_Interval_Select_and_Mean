@@ -1,0 +1,1 @@
+Backup of the interval data is saved in this folder, even it can stay empty but folder needs to be in the root directory of the script.
